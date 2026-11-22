@@ -6,3 +6,7 @@ local.properties
 *.iml
 .idea/
 dist/
+signing/
+*.jks
+*.keystore
+keystore.properties
